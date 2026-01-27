@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'AI Automation Platform',
-  description: 'Intelligent business process automation platform',
+  description: 'Intelligent business process automation platform powered by AI',
 }
 
 export default function RootLayout({
